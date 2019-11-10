@@ -1,0 +1,1561 @@
+
+Iteration:0
+--------------------------------
+Step:0
+3 phases: [[80, 100, 45], 37.0]
+Phase Average: 75
+Fitness:6747.68809103
+Arrived Cars:0
+Departed Cars:73
+Avg Waiting time: 12.7080560415
+Avg travel time: 345.0
+Avg Fuel Consumption:1.11317887108
+-------------------------------------------------------------------------
+Step:1
+3 phases: [[120, 49, 77], 41.0]
+Phase Average: 82
+Fitness:2647.5708234
+Arrived Cars:11
+Departed Cars:155
+Avg Waiting time: 950.638123606
+Avg travel time: 2682.5
+Avg Fuel Consumption:1.07914913415
+-------------------------------------------------------------------------
+Step:2
+3 phases: [[104, 72, 87], 43.0]
+Phase Average: 87
+Fitness:278.682952886
+Arrived Cars:27
+Departed Cars:236
+Avg Waiting time: 834.497269769
+Avg travel time: 5135.33333333
+Avg Fuel Consumption:1.07282084278
+-------------------------------------------------------------------------
+Step:3
+3 phases: [[18, 52, 44], 19.0]
+Phase Average: 38
+Fitness:3206.35353952
+Arrived Cars:28
+Departed Cars:236
+Avg Waiting time: 3217.22059531
+Avg travel time: 6074.75
+Avg Fuel Consumption:1.0889773278
+-------------------------------------------------------------------------
+Step:4
+3 phases: [[14, 99, 109], 37.0]
+Phase Average: 74
+Fitness:130.918205421
+Arrived Cars:125
+Departed Cars:236
+Avg Waiting time: 4264.66627261
+Avg travel time: 7026.0
+Avg Fuel Consumption:1.09208906486
+-------------------------------------------------------------------------
+Step:5
+3 phases: [[11, 96, 62], 28.0]
+Phase Average: 56
+Fitness:48.0870770152
+Arrived Cars:157
+Departed Cars:236
+Avg Waiting time: 4365.8937592
+Avg travel time: 6346.83333333
+Avg Fuel Consumption:1.07525615186
+-------------------------------------------------------------------------
+Step:6
+3 phases: [[103, 10, 54], 27.0]
+Phase Average: 55
+Fitness:11.526924739
+Arrived Cars:206
+Departed Cars:236
+Avg Waiting time: 4028.80395959
+Avg travel time: 5678.42857143
+Avg Fuel Consumption:1.07167943143
+-------------------------------------------------------------------------
+Step:7
+3 phases: [[46, 87, 86], 36.0]
+Phase Average: 73
+Fitness:1.83912017809
+Arrived Cars:228
+Departed Cars:236
+Avg Waiting time: 3573.26110412
+Avg travel time: 5037.625
+Avg Fuel Consumption:1.07267521643
+-------------------------------------------------------------------------
+Step:8
+3 phases: [[123, 96, 106], 54.0]
+Phase Average: 108
+Fitness:3.78357384872
+Arrived Cars:232
+Departed Cars:236
+Avg Waiting time: 3270.73212967
+Avg travel time: 4515.33333333
+Avg Fuel Consumption:1.07293258808
+-------------------------------------------------------------------------
+Step:9
+3 phases: [[44, 95, 106], 40.0]
+Phase Average: 81
+Fitness:0.0131513516552
+Arrived Cars:236
+Departed Cars:236
+Avg Waiting time: 2943.9692886
+Avg travel time: 4063.8
+Avg Fuel Consumption:1.07293258808
+-------------------------------------------------------------------------
+Step:10
+3 phases: [[115, 42, 41], 33.0]
+Phase Average: 66
+Fitness:0.0131513516552
+Arrived Cars:236
+Departed Cars:236
+Avg Waiting time: 2676.61787318
+Avg travel time: 3694.36363636
+Avg Fuel Consumption:1.07293258808
+-------------------------------------------------------------------------
+Step:11
+3 phases: [[90, 10, 104], 34.0]
+Phase Average: 68
+Fitness:0.0131513516552
+Arrived Cars:236
+Departed Cars:236
+Avg Waiting time: 2453.825027
+Avg travel time: 3386.5
+Avg Fuel Consumption:1.07293258808
+-------------------------------------------------------------------------
+Step:12
+3 phases: [[63, 20, 23], 17.0]
+Phase Average: 35
+Fitness:0.0131513516552
+Arrived Cars:236
+Departed Cars:236
+Avg Waiting time: 2265.30800331
+Avg travel time: 3126.0
+Avg Fuel Consumption:1.07293258808
+-------------------------------------------------------------------------
+Step:13
+3 phases: [[64, 9, 91], 27.0]
+Phase Average: 54
+Fitness:0.0131513516552
+Arrived Cars:236
+Departed Cars:236
+Avg Waiting time: 2103.721983
+Avg travel time: 2902.71428571
+Avg Fuel Consumption:1.07293258808
+-------------------------------------------------------------------------
+Step:14
+3 phases: [[123, 64, 55], 40.0]
+Phase Average: 80
+Fitness:0.0131513516552
+Arrived Cars:236
+Departed Cars:236
+Avg Waiting time: 1963.6807654
+Avg travel time: 2709.2
+Avg Fuel Consumption:1.07293258808
+-------------------------------------------------------------------------
+End of iteration: 0
+Best phases:[44, 95, 106]
+Best fitness:0.0131513516552
+
+Iteration:1
+--------------------------------
+Step:0
+3 phases: [[21, 42, 0], 38.0749832890309]
+Phase Average: 21
+Fitness:1200.73390712
+Arrived Cars:0
+Departed Cars:17
+Avg Waiting time: 49.6314063009
+Avg travel time: 0.0
+Avg Fuel Consumption:1.21500184386
+-------------------------------------------------------------------------
+Step:1
+3 phases: [[20, 21, 32], 38.73188980866918]
+Phase Average: 24
+Fitness:2747.73466053
+Arrived Cars:0
+Departed Cars:43
+Avg Waiting time: 34.2428503659
+Avg travel time: 1.0
+Avg Fuel Consumption:1.07164902245
+-------------------------------------------------------------------------
+Step:2
+3 phases: [[24, 3, 5], 12.33481921252693]
+Phase Average: 10
+Fitness:3793.74726197
+Arrived Cars:0
+Departed Cars:54
+Avg Waiting time: 27.8702166759
+Avg travel time: 3.0
+Avg Fuel Consumption:1.16793180919
+-------------------------------------------------------------------------
+Step:3
+3 phases: [[20, 60, 38], 149.62737889257227]
+Phase Average: 39
+Fitness:10618.9437126
+Arrived Cars:0
+Departed Cars:93
+Avg Waiting time: 23.7949843149
+Avg travel time: 202.5
+Avg Fuel Consumption:1.15177966961
+-------------------------------------------------------------------------
+Step:4
+3 phases: [[41, 8, 15], 53.470825993964496]
+Phase Average: 21
+Fitness:14786.4671996
+Arrived Cars:0
+Departed Cars:110
+Avg Waiting time: 21.0422914512
+Avg travel time: 368.6
+Avg Fuel Consumption:1.07280520209
+-------------------------------------------------------------------------
+Step:5
+3 phases: [[12, 22, 13], 89.29283238078617]
+Phase Average: 15
+Fitness:18103.3255586
+Arrived Cars:1
+Departed Cars:125
+Avg Waiting time: 19.2503436207
+Avg travel time: 423.333333333
+Avg Fuel Consumption:1.09985127114
+-------------------------------------------------------------------------
+Step:6
+3 phases: [[9, 9, 19], 168.04363115982125]
+Phase Average: 12
+Fitness:427.106857447
+Arrived Cars:7
+Departed Cars:138
+Avg Waiting time: 17.9467086262
+Avg travel time: 495.571428571
+Avg Fuel Consumption:1.08161903257
+-------------------------------------------------------------------------
+Step:7
+3 phases: [[34, 32, 50], 47.68923800383846]
+Phase Average: 38
+Fitness:74.279751993
+Arrived Cars:40
+Departed Cars:177
+Avg Waiting time: 80.1571858592
+Avg travel time: 798.75
+Avg Fuel Consumption:1.06589452037
+-------------------------------------------------------------------------
+Step:8
+3 phases: [[35, 44, 54], -51.20172580313178]
+Phase Average: 44
+Fitness:11.3566069682
+Arrived Cars:60
+Departed Cars:220
+Avg Waiting time: 72.0567839383
+Avg travel time: 1093.11111111
+Avg Fuel Consumption:1.05546318223
+-------------------------------------------------------------------------
+Step:9
+3 phases: [[4, 16, 22], 27.58105801559698]
+Phase Average: 14
+Fitness:10.2682811262
+Arrived Cars:68
+Departed Cars:234
+Avg Waiting time: 67.466290129
+Avg travel time: 1169.1
+Avg Fuel Consumption:1.05934419767
+-------------------------------------------------------------------------
+Step:10
+3 phases: [[41, 36, 56], -218.2864283737801]
+Phase Average: 44
+Fitness:229.735846344
+Arrived Cars:103
+Departed Cars:236
+Avg Waiting time: 984.901016398
+Avg travel time: 1260.90909091
+Avg Fuel Consumption:1.05569633531
+-------------------------------------------------------------------------
+Step:11
+3 phases: [[58, 7, 44], -148.70568642205413]
+Phase Average: 36
+Fitness:89.0025055129
+Arrived Cars:148
+Departed Cars:236
+Avg Waiting time: 1580.42122858
+Avg travel time: 1370.58333333
+Avg Fuel Consumption:1.05154210839
+-------------------------------------------------------------------------
+Step:12
+3 phases: [[7, 35, 32], -55.07043103284026]
+Phase Average: 24
+Fitness:49.8743307765
+Arrived Cars:176
+Departed Cars:236
+Avg Waiting time: 1955.11903177
+Avg travel time: 1406.30769231
+Avg Fuel Consumption:1.04757327188
+-------------------------------------------------------------------------
+Step:13
+3 phases: [[5, 36, 17], -153.2762665084389]
+Phase Average: 19
+Fitness:13.8191046047
+Arrived Cars:189
+Departed Cars:236
+Avg Waiting time: 1959.41175092
+Avg travel time: 1382.57142857
+Avg Fuel Consumption:1.03884515664
+-------------------------------------------------------------------------
+Step:14
+3 phases: [[16, 14, 39], -270.25584998524414]
+Phase Average: 23
+Fitness:12.3433110449
+Arrived Cars:199
+Departed Cars:236
+Avg Waiting time: 1962.54968524
+Avg travel time: 1361.73333333
+Avg Fuel Consumption:1.04041281065
+-------------------------------------------------------------------------
+End of iteration: 1
+Best phases:[4, 16, 22]
+Best fitness:10.2682811262
+
+Iteration:2
+--------------------------------
+Step:0
+3 phases: [[46, 2, 25], 25.176001782369212]
+Phase Average: 24
+Fitness:1319.54120924
+Arrived Cars:0
+Departed Cars:20
+Avg Waiting time: 41.977060462
+Avg travel time: 0.0
+Avg Fuel Consumption:1.22997303488
+-------------------------------------------------------------------------
+Step:1
+3 phases: [[18, 19, 30], -1.3550244069523476]
+Phase Average: 22
+Fitness:2891.00864657
+Arrived Cars:0
+Departed Cars:45
+Avg Waiting time: 30.0664040818
+Avg travel time: 2.0
+Avg Fuel Consumption:1.02804689907
+-------------------------------------------------------------------------
+Step:2
+3 phases: [[39, 18, 20], 15.547105239437746]
+Phase Average: 25
+Fitness:6018.96554284
+Arrived Cars:0
+Departed Cars:70
+Avg Waiting time: 24.3012481633
+Avg travel time: 53.0
+Avg Fuel Consumption:1.15075215027
+-------------------------------------------------------------------------
+Step:3
+3 phases: [[40, 42, 58], 20.51155449862302]
+Phase Average: 46
+Fitness:237.777553235
+Arrived Cars:8
+Departed Cars:112
+Avg Waiting time: 21.2700508704
+Avg travel time: 461.25
+Avg Fuel Consumption:1.0833970514
+-------------------------------------------------------------------------
+Step:4
+3 phases: [[4, 28, 35], 20.584901174823926]
+Phase Average: 22
+Fitness:763.233477394
+Arrived Cars:12
+Departed Cars:135
+Avg Waiting time: 152.448071429
+Avg travel time: 647.4
+Avg Fuel Consumption:1.01158929566
+-------------------------------------------------------------------------
+Step:5
+3 phases: [[7, 14, 27], 68.07560376831465]
+Phase Average: 16
+Fitness:304.202118347
+Arrived Cars:16
+Departed Cars:152
+Avg Waiting time: 187.929031341
+Avg travel time: 750.333333333
+Avg Fuel Consumption:1.0496332648
+-------------------------------------------------------------------------
+Step:6
+3 phases: [[38, 42, 17], 129.58746277668337]
+Phase Average: 32
+Fitness:35.4398375175
+Arrived Cars:35
+Departed Cars:185
+Avg Waiting time: 170.650985133
+Avg travel time: 1067.71428571
+Avg Fuel Consumption:1.04928127274
+-------------------------------------------------------------------------
+Step:7
+3 phases: [[3, 1, 19], -30.423088386108933]
+Phase Average: 7
+Fitness:18.5706038027
+Arrived Cars:41
+Departed Cars:192
+Avg Waiting time: 150.048899096
+Avg travel time: 1034.625
+Avg Fuel Consumption:1.10441726555
+-------------------------------------------------------------------------
+Step:8
+3 phases: [[9, 38, 46], -148.91248447578175]
+Phase Average: 31
+Fitness:8.56218082653
+Arrived Cars:67
+Departed Cars:221
+Avg Waiting time: 134.201650745
+Avg travel time: 1158.0
+Avg Fuel Consumption:1.09475405013
+-------------------------------------------------------------------------
+Step:9
+3 phases: [[23, 35, 41], 19.19387131026847]
+Phase Average: 33
+Fitness:10.8498298693
+Arrived Cars:95
+Departed Cars:236
+Avg Waiting time: 145.405940997
+Avg travel time: 1385.0
+Avg Fuel Consumption:1.08016275257
+-------------------------------------------------------------------------
+Step:10
+3 phases: [[38, 54, 3], -178.90270689764574]
+Phase Average: 31
+Fitness:85.3315166586
+Arrived Cars:131
+Departed Cars:236
+Avg Waiting time: 684.128342886
+Avg travel time: 1367.27272727
+Avg Fuel Consumption:1.0599936843
+-------------------------------------------------------------------------
+Step:11
+3 phases: [[35, 35, 49], -93.43062915966257]
+Phase Average: 39
+Fitness:68.6960388993
+Arrived Cars:146
+Departed Cars:236
+Avg Waiting time: 1133.00209863
+Avg travel time: 1431.66666667
+Avg Fuel Consumption:1.06083498997
+-------------------------------------------------------------------------
+Step:12
+3 phases: [[0, 28, 25], -6.909664003568466]
+Phase Average: 17
+Fitness:57.0415309092
+Arrived Cars:160
+Departed Cars:236
+Avg Waiting time: 1512.78459406
+Avg travel time: 1435.53846154
+Avg Fuel Consumption:1.0598067598
+-------------------------------------------------------------------------
+Step:13
+3 phases: [[59, 28, 47], -64.89417696019119]
+Phase Average: 44
+Fitness:24.3752542105
+Arrived Cars:200
+Departed Cars:236
+Avg Waiting time: 1695.23162924
+Avg travel time: 1417.57142857
+Avg Fuel Consumption:1.06487819839
+-------------------------------------------------------------------------
+Step:14
+3 phases: [[26, 11, 6], -109.86904635702449]
+Phase Average: 14
+Fitness:0.236336286177
+Arrived Cars:212
+Departed Cars:236
+Avg Waiting time: 1582.4379099
+Avg travel time: 1334.06666667
+Avg Fuel Consumption:1.05880096584
+-------------------------------------------------------------------------
+End of iteration: 2
+Best phases:[26, 11, 6]
+Best fitness:0.236336286177
+
+Iteration:3
+--------------------------------
+Step:0
+3 phases: [[42, 1, 21], -3.4891129448967386]
+Phase Average: 21
+Fitness:1200.73390712
+Arrived Cars:0
+Departed Cars:17
+Avg Waiting time: 49.6314063009
+Avg travel time: 0.0
+Avg Fuel Consumption:1.21500184386
+-------------------------------------------------------------------------
+Step:1
+3 phases: [[22, 23, 34], 4.147002782267101]
+Phase Average: 26
+Fitness:2996.66125118
+Arrived Cars:0
+Departed Cars:46
+Avg Waiting time: 33.8120210981
+Avg travel time: 3.5
+Avg Fuel Consumption:1.07955403818
+-------------------------------------------------------------------------
+Step:2
+3 phases: [[56, 35, 37], 17.73766212105661]
+Phase Average: 42
+Fitness:9726.44632231
+Arrived Cars:0
+Departed Cars:87
+Avg Waiting time: 26.7193026566
+Avg travel time: 300.0
+Avg Fuel Consumption:1.01677445131
+-------------------------------------------------------------------------
+Step:3
+3 phases: [[36, 34, 18], -76.08165974164162]
+Phase Average: 29
+Fitness:941.543384221
+Arrived Cars:4
+Departed Cars:114
+Avg Waiting time: 22.6616132809
+Avg travel time: 447.25
+Avg Fuel Consumption:0.980224904561
+-------------------------------------------------------------------------
+Step:4
+3 phases: [[30, 54, 40], 26.947826435589647]
+Phase Average: 41
+Fitness:273.860918362
+Arrived Cars:10
+Departed Cars:156
+Avg Waiting time: 19.6550493891
+Avg travel time: 954.2
+Avg Fuel Consumption:0.989090885794
+-------------------------------------------------------------------------
+Step:5
+3 phases: [[38, 5, 7], 105.59835522337029]
+Phase Average: 16
+Fitness:72.8855527685
+Arrived Cars:24
+Departed Cars:172
+Avg Waiting time: 30.9742450284
+Avg travel time: 965.166666667
+Avg Fuel Consumption:1.02702640322
+-------------------------------------------------------------------------
+Step:6
+3 phases: [[1, 1, 55], 38.66047203795644]
+Phase Average: 19
+Fitness:78.4995684342
+Arrived Cars:36
+Departed Cars:192
+Avg Waiting time: 78.3190260144
+Avg travel time: 1097.71428571
+Avg Fuel Consumption:1.01806382589
+-------------------------------------------------------------------------
+Step:7
+3 phases: [[3, 1, 19], 0.43495507253636845]
+Phase Average: 7
+Fitness:62.0811777707
+Arrived Cars:38
+Departed Cars:198
+Avg Waiting time: 103.619564872
+Avg travel time: 1198.25
+Avg Fuel Consumption:1.05855063227
+-------------------------------------------------------------------------
+Step:8
+3 phases: [[38, 22, 3], -146.7692599444187]
+Phase Average: 21
+Fitness:13.4594661452
+Arrived Cars:55
+Departed Cars:218
+Avg Waiting time: 92.8789022558
+Avg travel time: 1399.88888889
+Avg Fuel Consumption:1.06815830347
+-------------------------------------------------------------------------
+Step:9
+3 phases: [[1, 10, 16], -24.50488406735587]
+Phase Average: 9
+Fitness:10.7323466938
+Arrived Cars:62
+Departed Cars:227
+Avg Waiting time: 84.3637612332
+Avg travel time: 1398.5
+Avg Fuel Consumption:1.06532326283
+-------------------------------------------------------------------------
+Step:10
+3 phases: [[46, 15, 17], -179.0318962098595]
+Phase Average: 26
+Fitness:4.91433052258
+Arrived Cars:92
+Departed Cars:236
+Avg Waiting time: 77.358385999
+Avg travel time: 1531.63636364
+Avg Fuel Consumption:1.05104108747
+-------------------------------------------------------------------------
+Step:11
+3 phases: [[53, 18, 32], -195.46758098931033]
+Phase Average: 34
+Fitness:133.498757655
+Arrived Cars:121
+Departed Cars:236
+Avg Waiting time: 748.533785624
+Avg travel time: 1576.08333333
+Avg Fuel Consumption:1.04567150333
+-------------------------------------------------------------------------
+Step:12
+3 phases: [[28, 0, 3], -28.74952073275976]
+Phase Average: 10
+Fitness:121.124165291
+Arrived Cars:127
+Departed Cars:236
+Avg Waiting time: 1316.39809089
+Avg travel time: 1604.15384615
+Avg Fuel Consumption:1.06450707463
+-------------------------------------------------------------------------
+Step:13
+3 phases: [[34, 43, 50], -184.0224169087982]
+Phase Average: 42
+Fitness:64.1858520664
+Arrived Cars:174
+Departed Cars:236
+Avg Waiting time: 1803.12748185
+Avg travel time: 1718.21428571
+Avg Fuel Consumption:1.06921018286
+-------------------------------------------------------------------------
+Step:14
+3 phases: [[1, 22, 32], -113.73389339662366]
+Phase Average: 18
+Fitness:27.0617353249
+Arrived Cars:190
+Departed Cars:236
+Avg Waiting time: 1954.03498453
+Avg travel time: 1641.8
+Avg Fuel Consumption:1.06466242576
+-------------------------------------------------------------------------
+End of iteration: 3
+Best phases:[46, 15, 17]
+Best fitness:4.91433052258
+
+Iteration:4
+--------------------------------
+Step:0
+3 phases: [[33, 7, 12], -8.307249860613192]
+Phase Average: 17
+Fitness:1071.3503603
+Arrived Cars:0
+Departed Cars:14
+Avg Waiting time: 59.5250257357
+Avg travel time: 0.0
+Avg Fuel Consumption:2.04865017243
+-------------------------------------------------------------------------
+Step:1
+3 phases: [[21, 20, 9], -43.61113964627445]
+Phase Average: 16
+Fitness:1885.38376227
+Arrived Cars:0
+Departed Cars:32
+Avg Waiting time: 42.7216341533
+Avg travel time: 0.0
+Avg Fuel Consumption:1.62643511248
+-------------------------------------------------------------------------
+Step:2
+3 phases: [[27, 6, 8], -28.93438275507127]
+Phase Average: 13
+Fitness:2891.00864657
+Arrived Cars:0
+Departed Cars:45
+Avg Waiting time: 34.5330053361
+Avg travel time: 1.33333333333
+Avg Fuel Consumption:1.2848619225
+-------------------------------------------------------------------------
+Step:3
+3 phases: [[58, 60, 8], -94.48014551520517]
+Phase Average: 42
+Fitness:9485.13464196
+Arrived Cars:0
+Departed Cars:87
+Avg Waiting time: 29.015083433
+Avg travel time: 187.25
+Avg Fuel Consumption:1.17440156791
+-------------------------------------------------------------------------
+Step:4
+3 phases: [[22, 46, 32], -7.1832156031366265]
+Phase Average: 33
+Fitness:17024.2496902
+Arrived Cars:0
+Departed Cars:116
+Avg Waiting time: 25.7262903502
+Avg travel time: 455.8
+Avg Fuel Consumption:1.10243101206
+-------------------------------------------------------------------------
+Step:5
+3 phases: [[12, 12, 32], 87.50042670835074]
+Phase Average: 18
+Fitness:234.310666059
+Arrived Cars:10
+Departed Cars:135
+Avg Waiting time: 26.8349538176
+Avg travel time: 660.666666667
+Avg Fuel Consumption:1.05457248241
+-------------------------------------------------------------------------
+Step:6
+3 phases: [[2, 2, 51], -3.760725424107907]
+Phase Average: 18
+Fitness:394.582699269
+Arrived Cars:17
+Departed Cars:155
+Avg Waiting time: 106.986089529
+Avg travel time: 744.142857143
+Avg Fuel Consumption:1.04047267324
+-------------------------------------------------------------------------
+Step:7
+3 phases: [[7, 5, 23], 4.759450240393683]
+Phase Average: 11
+Fitness:50.0946574849
+Arrived Cars:23
+Departed Cars:164
+Avg Waiting time: 95.3148663025
+Avg travel time: 723.5
+Avg Fuel Consumption:1.04256431659
+-------------------------------------------------------------------------
+Step:8
+3 phases: [[56, 25, 23], -158.45926420494402]
+Phase Average: 34
+Fitness:48.4639991439
+Arrived Cars:43
+Departed Cars:199
+Avg Waiting time: 115.810274467
+Avg travel time: 912.333333333
+Avg Fuel Consumption:1.04542722328
+-------------------------------------------------------------------------
+Step:9
+3 phases: [[15, 6, 0], -16.098276454130456]
+Phase Average: 7
+Fitness:50.2390899679
+Arrived Cars:48
+Departed Cars:204
+Avg Waiting time: 144.47721922
+Avg travel time: 925.2
+Avg Fuel Consumption:1.04618204598
+-------------------------------------------------------------------------
+Step:10
+3 phases: [[21, 46, 29], -163.49164642388857]
+Phase Average: 32
+Fitness:43.4389401868
+Arrived Cars:74
+Departed Cars:235
+Avg Waiting time: 207.351296568
+Avg travel time: 1076.45454545
+Avg Fuel Consumption:1.03221354246
+-------------------------------------------------------------------------
+Step:11
+3 phases: [[22, 22, 17], -265.5133454987463]
+Phase Average: 20
+Fitness:4.17359291221
+Arrived Cars:100
+Departed Cars:236
+Avg Waiting time: 191.162745414
+Avg travel time: 1249.33333333
+Avg Fuel Consumption:1.0240013207
+-------------------------------------------------------------------------
+Step:12
+3 phases: [[33, 5, 8], 5.565577154793544]
+Phase Average: 15
+Fitness:39.9691956884
+Arrived Cars:110
+Departed Cars:236
+Avg Waiting time: 322.638905751
+Avg travel time: 1181.53846154
+Avg Fuel Consumption:1.02724270873
+-------------------------------------------------------------------------
+Step:13
+3 phases: [[35, 30, 10], -165.54191273469843]
+Phase Average: 25
+Fitness:76.8653676972
+Arrived Cars:138
+Departed Cars:236
+Avg Waiting time: 733.353276413
+Avg travel time: 1181.64285714
+Avg Fuel Consumption:1.0240802428
+-------------------------------------------------------------------------
+Step:14
+3 phases: [[30, 17, 49], -93.53260273626236]
+Phase Average: 32
+Fitness:64.0983195637
+Arrived Cars:151
+Departed Cars:236
+Avg Waiting time: 1089.13955075
+Avg travel time: 1145.93333333
+Avg Fuel Consumption:1.03507333309
+-------------------------------------------------------------------------
+End of iteration: 4
+Best phases:[22, 22, 17]
+Best fitness:4.17359291221
+
+Iteration:5
+--------------------------------
+Step:0
+3 phases: [[6, 19, 14], -26.342938119291844]
+Phase Average: 13
+Fitness:1114.1645028
+Arrived Cars:0
+Departed Cars:8
+Avg Waiting time: 126.27056285
+Avg travel time: 0.0
+Avg Fuel Consumption:1.64708946202
+-------------------------------------------------------------------------
+Step:1
+3 phases: [[35, 36, 47], -56.99280684368688]
+Phase Average: 39
+Fitness:3532.0153036
+Arrived Cars:0
+Departed Cars:51
+Avg Waiting time: 71.458960872
+Avg travel time: 15.5
+Avg Fuel Consumption:1.13140521656
+-------------------------------------------------------------------------
+Step:2
+3 phases: [[11, 9, 7], -15.16555701715755]
+Phase Average: 9
+Fitness:4647.77411827
+Arrived Cars:0
+Departed Cars:59
+Avg Waiting time: 52.7623248654
+Avg travel time: 57.6666666667
+Avg Fuel Consumption:1.0489690241
+-------------------------------------------------------------------------
+Step:3
+3 phases: [[41, 39, 25], -192.0328693315134]
+Phase Average: 35
+Fitness:11702.745791
+Arrived Cars:0
+Departed Cars:95
+Avg Waiting time: 42.6921273095
+Avg travel time: 392.5
+Avg Fuel Consumption:1.06574886586
+-------------------------------------------------------------------------
+Step:4
+3 phases: [[3, 21, 21], -116.93334736338993]
+Phase Average: 15
+Fitness:14170.7691934
+Arrived Cars:0
+Departed Cars:106
+Avg Waiting time: 36.3004361747
+Avg travel time: 567.4
+Avg Fuel Consumption:1.06663049439
+-------------------------------------------------------------------------
+Step:5
+3 phases: [[14, 18, 3], 67.04478851283608]
+Phase Average: 11
+Fitness:23295.952281
+Arrived Cars:0
+Departed Cars:118
+Avg Waiting time: 40.3463412769
+Avg travel time: 764.833333333
+Avg Fuel Consumption:1.08364359699
+-------------------------------------------------------------------------
+Step:6
+3 phases: [[28, 28, 20], -30.007258700322033]
+Phase Average: 25
+Fitness:215049.4652
+Arrived Cars:0
+Departed Cars:144
+Avg Waiting time: 224.336015935
+Avg travel time: 1028.42857143
+Avg Fuel Consumption:1.06693580358
+-------------------------------------------------------------------------
+Step:7
+3 phases: [[15, 13, 31], 8.506242342758634]
+Phase Average: 19
+Fitness:170.441938493
+Arrived Cars:13
+Departed Cars:164
+Avg Waiting time: 197.229751447
+Avg travel time: 1213.75
+Avg Fuel Consumption:1.06634631739
+-------------------------------------------------------------------------
+Step:8
+3 phases: [[2, 30, 37], -235.94051218732338]
+Phase Average: 23
+Fitness:28.3830572467
+Arrived Cars:34
+Departed Cars:187
+Avg Waiting time: 176.056163008
+Avg travel time: 1373.0
+Avg Fuel Consumption:1.06179661932
+-------------------------------------------------------------------------
+Step:9
+3 phases: [[40, 31, 25], 25.168905542408993]
+Phase Average: 32
+Fitness:12.7689222357
+Arrived Cars:57
+Departed Cars:217
+Avg Waiting time: 159.308255621
+Avg travel time: 1662.2
+Avg Fuel Consumption:1.06336812723
+-------------------------------------------------------------------------
+Step:10
+3 phases: [[26, 26, 13], -160.09324973993336]
+Phase Average: 21
+Fitness:22.854847059
+Arrived Cars:76
+Departed Cars:235
+Avg Waiting time: 180.084331653
+Avg travel time: 1728.18181818
+Avg Fuel Consumption:1.0471008431
+-------------------------------------------------------------------------
+Step:11
+3 phases: [[29, 9, 57], -259.09464724611206]
+Phase Average: 31
+Fitness:18.9023609448
+Arrived Cars:105
+Departed Cars:236
+Avg Waiting time: 225.048183047
+Avg travel time: 1817.33333333
+Avg Fuel Consumption:1.04879425552
+-------------------------------------------------------------------------
+Step:12
+3 phases: [[20, 54, 57], 49.17128965029739]
+Phase Average: 43
+Fitness:79.312038526
+Arrived Cars:137
+Departed Cars:236
+Avg Waiting time: 681.562615868
+Avg travel time: 1956.46153846
+Avg Fuel Consumption:1.04588612091
+-------------------------------------------------------------------------
+Step:13
+3 phases: [[39, 35, 7], -135.37609064319602]
+Phase Average: 27
+Fitness:63.4120754811
+Arrived Cars:152
+Departed Cars:236
+Avg Waiting time: 1066.47145805
+Avg travel time: 2079.07142857
+Avg Fuel Consumption:1.04598896684
+-------------------------------------------------------------------------
+Step:14
+3 phases: [[6, 38, 42], -91.70830624857115]
+Phase Average: 28
+Fitness:38.345278447
+Arrived Cars:175
+Departed Cars:236
+Avg Waiting time: 1320.18329091
+Avg travel time: 2064.86666667
+Avg Fuel Consumption:1.04510239945
+-------------------------------------------------------------------------
+End of iteration: 5
+Best phases:[40, 31, 25]
+Best fitness:12.7689222357
+
+Iteration:6
+--------------------------------
+Step:0
+3 phases: [[9, 6, 33], 65.24065803501044]
+Phase Average: 16
+Fitness:1057.99300177
+Arrived Cars:0
+Departed Cars:12
+Avg Waiting time: 72.1660834808
+Avg travel time: 0.0
+Avg Fuel Consumption:2.04932477972
+-------------------------------------------------------------------------
+Step:1
+3 phases: [[36, 35, 24], -71.38082707076721]
+Phase Average: 31
+Fitness:2996.66125118
+Arrived Cars:0
+Departed Cars:46
+Avg Waiting time: 45.079359688
+Avg travel time: 3.5
+Avg Fuel Consumption:1.26215616735
+-------------------------------------------------------------------------
+Step:2
+3 phases: [[59, 57, 55], 48.650015207854324]
+Phase Average: 57
+Fitness:13449.2478503
+Arrived Cars:0
+Departed Cars:102
+Avg Waiting time: 34.1288798256
+Avg travel time: 533.666666667
+Avg Fuel Consumption:1.08955577419
+-------------------------------------------------------------------------
+Step:3
+3 phases: [[12, 34, 25], -123.80288696444532]
+Phase Average: 23
+Fitness:1108.8220173
+Arrived Cars:4
+Departed Cars:122
+Avg Waiting time: 28.428939125
+Avg travel time: 743.5
+Avg Fuel Consumption:1.13492669543
+-------------------------------------------------------------------------
+Step:4
+3 phases: [[42, 24, 24], -45.25489794765739]
+Phase Average: 30
+Fitness:563.210342247
+Arrived Cars:7
+Departed Cars:155
+Avg Waiting time: 24.6235471324
+Avg travel time: 1175.6
+Avg Fuel Consumption:1.09085483222
+-------------------------------------------------------------------------
+Step:5
+3 phases: [[31, 11, 11], 118.76494544686312]
+Phase Average: 17
+Fitness:101.121966957
+Arrived Cars:19
+Departed Cars:171
+Avg Waiting time: 27.5225758962
+Avg travel time: 1458.33333333
+Avg Fuel Consumption:1.05885186945
+-------------------------------------------------------------------------
+Step:6
+3 phases: [[5, 5, 2], -22.587384622616526]
+Phase Average: 4
+Fitness:55.8995313616
+Arrived Cars:23
+Departed Cars:175
+Avg Waiting time: 24.5873932909
+Avg travel time: 1434.85714286
+Avg Fuel Consumption:1.06120143236
+-------------------------------------------------------------------------
+Step:7
+3 phases: [[54, 52, 20], 69.9022558161989]
+Phase Average: 42
+Fitness:20.240601568
+Arrived Cars:47
+Departed Cars:217
+Avg Waiting time: 24.1409788436
+Avg travel time: 1599.375
+Avg Fuel Consumption:1.05877124868
+-------------------------------------------------------------------------
+Step:8
+3 phases: [[49, 24, 36], -149.62555001648352]
+Phase Average: 36
+Fitness:7.01199591521
+Arrived Cars:81
+Departed Cars:236
+Avg Waiting time: 22.4123697064
+Avg travel time: 1899.44444444
+Avg Fuel Consumption:1.03501682591
+-------------------------------------------------------------------------
+Step:9
+3 phases: [[54, 45, 39], 14.95757076253951]
+Phase Average: 46
+Fitness:124.280220872
+Arrived Cars:133
+Departed Cars:236
+Avg Waiting time: 937.284195027
+Avg travel time: 1999.5
+Avg Fuel Consumption:1.02648292594
+-------------------------------------------------------------------------
+Step:10
+3 phases: [[8, 8, 21], -34.302838575429654]
+Phase Average: 12
+Fitness:104.843351917
+Arrived Cars:136
+Departed Cars:236
+Avg Waiting time: 1586.13880483
+Avg travel time: 2013.81818182
+Avg Fuel Consumption:1.03922773171
+-------------------------------------------------------------------------
+Step:11
+3 phases: [[45, 40, 36], -93.78500721281813]
+Phase Average: 40
+Fitness:79.5911130694
+Arrived Cars:156
+Departed Cars:236
+Avg Waiting time: 2126.75341278
+Avg travel time: 2117.66666667
+Avg Fuel Consumption:1.03072317902
+-------------------------------------------------------------------------
+Step:12
+3 phases: [[23, 4, 6], 47.5244613475297]
+Phase Average: 11
+Fitness:58.5542063088
+Arrived Cars:171
+Departed Cars:236
+Avg Waiting time: 2513.01995165
+Avg travel time: 2068.53846154
+Avg Fuel Consumption:1.03104207438
+-------------------------------------------------------------------------
+Step:13
+3 phases: [[31, 27, 0], -7.6507253634284496]
+Phase Average: 19
+Fitness:13.02347121
+Arrived Cars:194
+Departed Cars:236
+Avg Waiting time: 2476.88970161
+Avg travel time: 1944.0
+Avg Fuel Consumption:1.01595931058
+-------------------------------------------------------------------------
+Step:14
+3 phases: [[24, 7, 11], -30.933570658956498]
+Phase Average: 14
+Fitness:11.689579167
+Arrived Cars:204
+Departed Cars:236
+Avg Waiting time: 2445.53053693
+Avg travel time: 1827.93333333
+Avg Fuel Consumption:1.01512754402
+-------------------------------------------------------------------------
+End of iteration: 6
+Best phases:[49, 24, 36]
+Best fitness:7.01199591521
+
+Iteration:7
+--------------------------------
+Step:0
+3 phases: [[8, 56, 32], 122.19635827392564]
+Phase Average: 32
+Fitness:1786.01052985
+Arrived Cars:0
+Departed Cars:30
+Avg Waiting time: 27.5336843284
+Avg travel time: 0.0
+Avg Fuel Consumption:1.38538356853
+-------------------------------------------------------------------------
+Step:1
+3 phases: [[33, 32, 21], -2.531600708660932]
+Phase Average: 28
+Fitness:4576.260854
+Arrived Cars:0
+Departed Cars:59
+Avg Waiting time: 21.4639680456
+Avg travel time: 64.0
+Avg Fuel Consumption:0.994837322197
+-------------------------------------------------------------------------
+Step:2
+3 phases: [[59, 57, 55], 0.23285656305704094]
+Phase Average: 57
+Fitness:206643.131596
+Arrived Cars:1
+Departed Cars:112
+Avg Waiting time: 584.59839416
+Avg travel time: 722.333333333
+Avg Fuel Consumption:1.04818040875
+-------------------------------------------------------------------------
+Step:3
+3 phases: [[3, 18, 9], -15.725821954752497]
+Phase Average: 10
+Fitness:18695.2635199
+Arrived Cars:1
+Departed Cars:122
+Avg Waiting time: 442.162450374
+Avg travel time: 920.75
+Avg Fuel Consumption:1.09697990347
+-------------------------------------------------------------------------
+Step:4
+3 phases: [[44, 26, 26], 2.6051784127334017]
+Phase Average: 32
+Fitness:213.595619404
+Arrived Cars:11
+Departed Cars:156
+Avg Waiting time: 355.31338331
+Avg travel time: 1047.6
+Avg Fuel Consumption:1.01342464119
+-------------------------------------------------------------------------
+Step:5
+3 phases: [[17, 35, 44], 141.96532452671423]
+Phase Average: 32
+Fitness:26.2367974113
+Arrived Cars:36
+Departed Cars:189
+Avg Waiting time: 299.051178724
+Avg travel time: 1110.83333333
+Avg Fuel Consumption:0.986753558284
+-------------------------------------------------------------------------
+Step:6
+3 phases: [[7, 22, 1], 110.22768782830339]
+Phase Average: 10
+Fitness:58.1438689285
+Arrived Cars:39
+Departed Cars:198
+Avg Waiting time: 296.491792903
+Avg travel time: 1068.28571429
+Avg Fuel Consumption:0.998987324334
+-------------------------------------------------------------------------
+Step:7
+3 phases: [[49, 59, 41], 66.52349447680422]
+Phase Average: 49
+Fitness:5.45814841771
+Arrived Cars:88
+Departed Cars:236
+Avg Waiting time: 260.278253826
+Avg travel time: 1393.125
+Avg Fuel Consumption:0.981852756201
+-------------------------------------------------------------------------
+Step:8
+3 phases: [[44, 12, 2], -112.55733380776024]
+Phase Average: 19
+Fitness:19.4478077189
+Arrived Cars:110
+Departed Cars:236
+Avg Waiting time: 325.217427788
+Avg travel time: 1468.11111111
+Avg Fuel Consumption:0.991702727679
+-------------------------------------------------------------------------
+Step:9
+3 phases: [[44, 35, 29], -9.003269213093098]
+Phase Average: 36
+Fitness:145.958825897
+Arrived Cars:129
+Departed Cars:236
+Avg Waiting time: 1306.12442304
+Avg travel time: 1778.7
+Avg Fuel Consumption:0.997602092706
+-------------------------------------------------------------------------
+Step:10
+3 phases: [[31, 51, 41], 61.99692705017141]
+Phase Average: 41
+Fitness:68.2730766179
+Arrived Cars:151
+Departed Cars:236
+Avg Waiting time: 1773.98114728
+Avg travel time: 2024.54545455
+Avg Fuel Consumption:1.00062014217
+-------------------------------------------------------------------------
+Step:11
+3 phases: [[8, 24, 36], -140.14607714935363]
+Phase Average: 22
+Fitness:18.1825082946
+Arrived Cars:168
+Departed Cars:236
+Avg Waiting time: 1798.14236315
+Avg travel time: 1945.41666667
+Avg Fuel Consumption:1.00322897547
+-------------------------------------------------------------------------
+Step:12
+3 phases: [[26, 8, 43], 115.89049099149784]
+Phase Average: 25
+Fitness:15.0233363833
+Arrived Cars:184
+Departed Cars:236
+Avg Waiting time: 1818.5773302
+Avg travel time: 1883.30769231
+Avg Fuel Consumption:1.00228963054
+-------------------------------------------------------------------------
+Step:13
+3 phases: [[33, 29, 2], 2.0016055218520483]
+Phase Average: 21
+Fitness:0.24179760299
+Arrived Cars:212
+Departed Cars:236
+Avg Waiting time: 1688.91331735
+Avg travel time: 1760.0
+Avg Fuel Consumption:0.992317032231
+-------------------------------------------------------------------------
+Step:14
+3 phases: [[58, 41, 45], 34.504144473113705]
+Phase Average: 48
+Fitness:3.91401146533
+Arrived Cars:224
+Departed Cars:236
+Avg Waiting time: 1630.1969039
+Avg travel time: 1650.53333333
+Avg Fuel Consumption:0.99161601165
+-------------------------------------------------------------------------
+End of iteration: 7
+Best phases:[33, 29, 2]
+Best fitness:0.24179760299
+
+Iteration:8
+--------------------------------
+Step:0
+3 phases: [[23, 30, 22], 92.58562707602884]
+Phase Average: 25
+Fitness:1364.27027111
+Arrived Cars:0
+Departed Cars:21
+Avg Waiting time: 39.9652510054
+Avg travel time: 0.0
+Avg Fuel Consumption:1.25534818994
+-------------------------------------------------------------------------
+Step:1
+3 phases: [[33, 32, 21], 0.7685737729126672]
+Phase Average: 28
+Fitness:3616.6485089
+Arrived Cars:0
+Departed Cars:52
+Avg Waiting time: 27.9600150114
+Avg travel time: 15.5
+Avg Fuel Consumption:1.1314530875
+-------------------------------------------------------------------------
+Step:2
+3 phases: [[8, 10, 12], -67.84872676491042]
+Phase Average: 10
+Fitness:4759.58567881
+Arrived Cars:0
+Departed Cars:61
+Avg Waiting time: 23.3754508754
+Avg travel time: 27.0
+Avg Fuel Consumption:1.15572936166
+-------------------------------------------------------------------------
+Step:3
+3 phases: [[15, 3, 21], 86.92587380738989]
+Phase Average: 13
+Fitness:6782.81057991
+Arrived Cars:0
+Departed Cars:74
+Avg Waiting time: 20.7404076833
+Avg travel time: 72.5
+Avg Fuel Consumption:1.06083661855
+-------------------------------------------------------------------------
+Step:4
+3 phases: [[18, 0, 0], -25.748871821657435]
+Phase Average: 6
+Fitness:7825.88278914
+Arrived Cars:0
+Departed Cars:80
+Avg Waiting time: 19.0445331195
+Avg travel time: 115.0
+Avg Fuel Consumption:1.09737218588
+-------------------------------------------------------------------------
+Step:5
+3 phases: [[31, 54, 43], 100.96121093153782]
+Phase Average: 42
+Fitness:340.608809132
+Arrived Cars:7
+Departed Cars:119
+Avg Waiting time: 17.7735698229
+Avg travel time: 336.333333333
+Avg Fuel Consumption:1.05503729207
+-------------------------------------------------------------------------
+Step:6
+3 phases: [[48, 21, 34], 121.64324808176892]
+Phase Average: 34
+Fitness:57.8460306179
+Arrived Cars:21
+Departed Cars:155
+Avg Waiting time: 16.8198335832
+Avg travel time: 662.285714286
+Avg Fuel Consumption:1.04516716577
+-------------------------------------------------------------------------
+Step:7
+3 phases: [[44, 54, 36], -4.8828768124297]
+Phase Average: 44
+Fitness:41.3208646026
+Arrived Cars:31
+Departed Cars:199
+Avg Waiting time: 15.6296350908
+Avg travel time: 1119.625
+Avg Fuel Consumption:1.04338426173
+-------------------------------------------------------------------------
+Step:8
+3 phases: [[0, 31, 41], -43.824910135339444]
+Phase Average: 24
+Fitness:8.10609171999
+Arrived Cars:68
+Departed Cars:223
+Avg Waiting time: 14.6446622398
+Avg travel time: 1100.11111111
+Avg Fuel Consumption:1.01999584192
+-------------------------------------------------------------------------
+Step:9
+3 phases: [[22, 13, 7], -21.06889548666176]
+Phase Average: 14
+Fitness:8.27911929397
+Arrived Cars:71
+Departed Cars:235
+Avg Waiting time: 13.6295748928
+Avg travel time: 1122.0
+Avg Fuel Consumption:1.00722566963
+-------------------------------------------------------------------------
+Step:10
+3 phases: [[52, 41, 12], 21.913676125351863]
+Phase Average: 35
+Fitness:180.038431826
+Arrived Cars:91
+Departed Cars:236
+Avg Waiting time: 570.151021069
+Avg travel time: 1299.72727273
+Avg Fuel Consumption:0.999335335601
+-------------------------------------------------------------------------
+Step:11
+3 phases: [[38, 10, 46], -128.406020737331]
+Phase Average: 31
+Fitness:92.7348821686
+Arrived Cars:126
+Departed Cars:236
+Avg Waiting time: 1029.73271187
+Avg travel time: 1400.41666667
+Avg Fuel Consumption:0.989960266395
+-------------------------------------------------------------------------
+Step:12
+3 phases: [[20, 60, 7], 52.36542467314543]
+Phase Average: 29
+Fitness:63.3643973228
+Arrived Cars:152
+Departed Cars:236
+Avg Waiting time: 1417.47525285
+Avg travel time: 1540.38461538
+Avg Fuel Consumption:0.997346922258
+-------------------------------------------------------------------------
+Step:13
+3 phases: [[31, 27, 0], -1.9004446791259317]
+Phase Average: 19
+Fitness:18.1873654013
+Arrived Cars:168
+Departed Cars:236
+Avg Waiting time: 1464.0397327
+Avg travel time: 1492.85714286
+Avg Fuel Consumption:0.989494505148
+-------------------------------------------------------------------------
+Step:14
+3 phases: [[39, 56, 52], -97.50533702143032]
+Phase Average: 49
+Fitness:9.70869802016
+Arrived Cars:204
+Departed Cars:236
+Avg Waiting time: 1476.80747278
+Avg travel time: 1422.0
+Avg Fuel Consumption:0.989468179273
+-------------------------------------------------------------------------
+End of iteration: 8
+Best phases:[0, 31, 41]
+Best fitness:8.10609171999
+
+Iteration:9
+--------------------------------
+Step:0
+3 phases: [[21, 24, 24], 45.81463156018023]
+Phase Average: 23
+Fitness:1245.52212604
+Arrived Cars:0
+Departed Cars:19
+Avg Waiting time: 42.5537961072
+Avg travel time: 0.0
+Avg Fuel Consumption:1.59613679966
+-------------------------------------------------------------------------
+Step:1
+3 phases: [[21, 20, 9], -11.003009760199173]
+Phase Average: 16
+Fitness:2248.17572227
+Arrived Cars:0
+Departed Cars:37
+Avg Waiting time: 32.1576510573
+Avg travel time: 0.0
+Avg Fuel Consumption:1.26904565388
+-------------------------------------------------------------------------
+Step:2
+3 phases: [[3, 1, 0], -11.847057175685327]
+Phase Average: 1
+Fitness:2362.53886273
+Arrived Cars:0
+Departed Cars:39
+Avg Waiting time: 28.2977405573
+Avg travel time: 0.0
+Avg Fuel Consumption:1.20358260039
+-------------------------------------------------------------------------
+Step:3
+3 phases: [[46, 20, 1], 71.82876004044209]
+Phase Average: 22
+Fitness:4752.95958615
+Arrived Cars:0
+Departed Cars:59
+Avg Waiting time: 25.1765240033
+Avg travel time: 40.5
+Avg Fuel Consumption:1.10524993742
+-------------------------------------------------------------------------
+Step:4
+3 phases: [[8, 9, 9], -9.65462301282243]
+Phase Average: 8
+Fitness:5777.58485885
+Arrived Cars:0
+Departed Cars:68
+Avg Waiting time: 22.8164687875
+Avg travel time: 54.0
+Avg Fuel Consumption:1.17702738978
+-------------------------------------------------------------------------
+Step:5
+3 phases: [[58, 47, 18], 27.30113346888095]
+Phase Average: 41
+Fitness:104319.068484
+Arrived Cars:0
+Departed Cars:106
+Avg Waiting time: 162.249680725
+Avg travel time: 287.5
+Avg Fuel Consumption:1.10780387178
+-------------------------------------------------------------------------
+Step:6
+3 phases: [[19, 39, 52], 18.05399409774121]
+Phase Average: 36
+Fitness:25551.907286
+Arrived Cars:0
+Departed Cars:144
+Avg Waiting time: 140.501618484
+Avg travel time: 666.714285714
+Avg Fuel Consumption:1.0953611768
+-------------------------------------------------------------------------
+Step:7
+3 phases: [[13, 60, 39], -114.14941029731165]
+Phase Average: 37
+Fitness:44.6271244139
+Arrived Cars:28
+Departed Cars:181
+Avg Waiting time: 125.906917238
+Avg travel time: 900.625
+Avg Fuel Consumption:1.09412349477
+-------------------------------------------------------------------------
+Step:8
+3 phases: [[51, 20, 10], -51.07371987075975]
+Phase Average: 27
+Fitness:18.3372006572
+Arrived Cars:46
+Departed Cars:207
+Avg Waiting time: 112.684042693
+Avg travel time: 1178.55555556
+Avg Fuel Consumption:1.07746048279
+-------------------------------------------------------------------------
+Step:9
+3 phases: [[29, 20, 14], 7.494583675572027]
+Phase Average: 21
+Fitness:8.94743569574
+Arrived Cars:68
+Departed Cars:229
+Avg Waiting time: 102.123473645
+Avg travel time: 1300.7
+Avg Fuel Consumption:1.05315651086
+-------------------------------------------------------------------------
+Step:10
+3 phases: [[17, 6, 22], -34.97809604539778]
+Phase Average: 15
+Fitness:6.35690607628
+Arrived Cars:81
+Departed Cars:236
+Avg Waiting time: 93.2592675532
+Avg travel time: 1394.54545455
+Avg Fuel Consumption:1.05885567364
+-------------------------------------------------------------------------
+Step:11
+3 phases: [[31, 29, 30], -152.88010727874885]
+Phase Average: 30
+Fitness:132.698950552
+Arrived Cars:110
+Departed Cars:236
+Avg Waiting time: 639.714816472
+Avg travel time: 1377.0
+Avg Fuel Consumption:1.05022448141
+-------------------------------------------------------------------------
+Step:12
+3 phases: [[55, 21, 42], 35.193466755178704]
+Phase Average: 39
+Fitness:132.128175322
+Arrived Cars:148
+Departed Cars:236
+Avg Waiting time: 1524.12839391
+Avg travel time: 1422.92307692
+Avg Fuel Consumption:1.04323887093
+-------------------------------------------------------------------------
+Step:13
+3 phases: [[33, 29, 2], 2.853681208301979]
+Phase Average: 21
+Fitness:58.08616907
+Arrived Cars:182
+Departed Cars:236
+Avg Waiting time: 1991.91591307
+Avg travel time: 1363.0
+Avg Fuel Consumption:1.03361009045
+-------------------------------------------------------------------------
+Step:14
+3 phases: [[5, 6, 33], -143.3286051497837]
+Phase Average: 14
+Fitness:38.5122962102
+Arrived Cars:193
+Departed Cars:236
+Avg Waiting time: 2259.96121421
+Avg travel time: 1304.06666667
+Avg Fuel Consumption:1.0399785288
+-------------------------------------------------------------------------
+End of iteration: 9
+Best phases:[17, 6, 22]
+Best fitness:6.35690607628
+all fitness of all populations:[[6747.688091027576, 2647.570823401209, 278.68295288613973, 3206.3535395150034, 130.91820542092117, 48.08707701515013, 11.526924739019988, 1.8391201780911832, 3.783573848723493, 0.013151351655153999, 0.013151351655153999, 0.013151351655153999, 0.013151351655153999, 0.013151351655153999, 0.013151351655153999], [1200.7339071155957, 2747.7346605296384, 3793.747261970042, 10618.943712575667, 14786.467199613293, 18103.325558551307, 427.10685744746803, 74.27975199297882, 11.356606968233889, 10.268281126237953, 229.73584634414877, 89.0025055129432, 49.874330776549385, 13.819104604738724, 12.34331104488369], [1319.5412092394886, 2891.0086465726927, 6018.965542838419, 237.7775532353857, 763.2334773936743, 304.20211834734283, 35.43983751752161, 18.570603802745037, 8.562180826530238, 10.84982986925619, 85.33151665860734, 68.69603889926104, 57.04153090922975, 24.375254210461584, 0.23633628617747066], [1200.7339071155957, 2996.6612511817207, 9726.446322312806, 941.543384220829, 273.8609183621024, 72.88555276846, 78.4995684342073, 62.08117777073407, 13.459466145244825, 10.73234669375906, 4.914330522580248, 133.4987576554047, 121.12416529051389, 64.18585206640353, 27.061735324864966], [1071.350360299385, 1885.3837622681767, 2891.0086465726927, 9485.134641957493, 17024.24969020893, 234.3106660585017, 394.58269926913795, 50.09465748487638, 48.463999143871625, 50.23908996794607, 43.43894018677473, 4.173592912213492, 39.96919568839359, 76.86536769719818, 64.09831956369212], [1114.1645027985992, 3532.0153036043234, 4647.774118271238, 11702.745790986539, 14170.769193357104, 23295.952280988728, 215049.46519955763, 170.44193849277326, 28.38305724670209, 12.768922235673536, 22.854847059022795, 18.902360944814053, 79.31203852595156, 63.41207548112141, 38.34527844695538], [1057.9930017695651, 2996.6612511817207, 13449.247850288291, 1108.822017301607, 563.2103422472045, 101.12196695657019, 55.89953136158955, 20.240601567953327, 7.011995915212687, 124.28022087209851, 104.8433519174344, 79.59111306941647, 58.55420630881207, 13.023471209959869, 11.689579167036829], [1786.0105298510648, 4576.260854004435, 206643.13159571763, 18695.26351986595, 213.5956194044567, 26.236797411268363, 58.14386892853266, 5.458148417713534, 19.44780771888517, 145.95882589731204, 68.2730766179474, 18.182508294647096, 15.023336383310133, 0.24179760299040676, 3.9140114653291773], [1364.2702711140487, 3616.648508901445, 4759.585678805997, 6782.81057991226, 7825.882789141251, 340.6088091322401, 57.846030617856414, 41.32086460261553, 8.106091719988779, 8.279119293973388, 180.03843182550406, 92.73488216855412, 63.3643973227786, 18.187365401327373, 9.708698020157676], [1245.5221260369267, 2248.175722271022, 2362.538862732286, 4752.9595861536545, 5777.584858847788, 104319.06848352609, 25551.907286036767, 44.62712441393464, 18.33720065721525, 8.947435695744632, 6.356906076283341, 132.69895055212996, 132.1281753222178, 58.08616906996446, 38.5122962101903]]all PSO phases of all populations:[[[[21, 24, 24], 45.81463156018023], [[21, 20, 9], -11.003009760199173], [[3, 1, 0], -11.847057175685327], [[46, 20, 1], 71.82876004044209], [[8, 9, 9], -9.65462301282243], [[58, 47, 18], 27.30113346888095], [[19, 39, 52], 18.05399409774121], [[13, 60, 39], -114.14941029731165], [[51, 20, 10], -51.07371987075975], [[29, 20, 14], 7.494583675572027], [[17, 6, 22], -34.97809604539778], [[31, 29, 30], -152.88010727874885], [[55, 21, 42], 35.193466755178704], [[33, 29, 2], 2.853681208301979], [[5, 6, 33], -143.3286051497837]], [[[21, 24, 24], 45.81463156018023], [[21, 20, 9], -11.003009760199173], [[3, 1, 0], -11.847057175685327], [[46, 20, 1], 71.82876004044209], [[8, 9, 9], -9.65462301282243], [[58, 47, 18], 27.30113346888095], [[19, 39, 52], 18.05399409774121], [[13, 60, 39], -114.14941029731165], [[51, 20, 10], -51.07371987075975], [[29, 20, 14], 7.494583675572027], [[17, 6, 22], -34.97809604539778], [[31, 29, 30], -152.88010727874885], [[55, 21, 42], 35.193466755178704], [[33, 29, 2], 2.853681208301979], [[5, 6, 33], -143.3286051497837]], [[[21, 24, 24], 45.81463156018023], [[21, 20, 9], -11.003009760199173], [[3, 1, 0], -11.847057175685327], [[46, 20, 1], 71.82876004044209], [[8, 9, 9], -9.65462301282243], [[58, 47, 18], 27.30113346888095], [[19, 39, 52], 18.05399409774121], [[13, 60, 39], -114.14941029731165], [[51, 20, 10], -51.07371987075975], [[29, 20, 14], 7.494583675572027], [[17, 6, 22], -34.97809604539778], [[31, 29, 30], -152.88010727874885], [[55, 21, 42], 35.193466755178704], [[33, 29, 2], 2.853681208301979], [[5, 6, 33], -143.3286051497837]], [[[21, 24, 24], 45.81463156018023], [[21, 20, 9], -11.003009760199173], [[3, 1, 0], -11.847057175685327], [[46, 20, 1], 71.82876004044209], [[8, 9, 9], -9.65462301282243], [[58, 47, 18], 27.30113346888095], [[19, 39, 52], 18.05399409774121], [[13, 60, 39], -114.14941029731165], [[51, 20, 10], -51.07371987075975], [[29, 20, 14], 7.494583675572027], [[17, 6, 22], -34.97809604539778], [[31, 29, 30], -152.88010727874885], [[55, 21, 42], 35.193466755178704], [[33, 29, 2], 2.853681208301979], [[5, 6, 33], -143.3286051497837]], [[[21, 24, 24], 45.81463156018023], [[21, 20, 9], -11.003009760199173], [[3, 1, 0], -11.847057175685327], [[46, 20, 1], 71.82876004044209], [[8, 9, 9], -9.65462301282243], [[58, 47, 18], 27.30113346888095], [[19, 39, 52], 18.05399409774121], [[13, 60, 39], -114.14941029731165], [[51, 20, 10], -51.07371987075975], [[29, 20, 14], 7.494583675572027], [[17, 6, 22], -34.97809604539778], [[31, 29, 30], -152.88010727874885], [[55, 21, 42], 35.193466755178704], [[33, 29, 2], 2.853681208301979], [[5, 6, 33], -143.3286051497837]], [[[21, 24, 24], 45.81463156018023], [[21, 20, 9], -11.003009760199173], [[3, 1, 0], -11.847057175685327], [[46, 20, 1], 71.82876004044209], [[8, 9, 9], -9.65462301282243], [[58, 47, 18], 27.30113346888095], [[19, 39, 52], 18.05399409774121], [[13, 60, 39], -114.14941029731165], [[51, 20, 10], -51.07371987075975], [[29, 20, 14], 7.494583675572027], [[17, 6, 22], -34.97809604539778], [[31, 29, 30], -152.88010727874885], [[55, 21, 42], 35.193466755178704], [[33, 29, 2], 2.853681208301979], [[5, 6, 33], -143.3286051497837]], [[[21, 24, 24], 45.81463156018023], [[21, 20, 9], -11.003009760199173], [[3, 1, 0], -11.847057175685327], [[46, 20, 1], 71.82876004044209], [[8, 9, 9], -9.65462301282243], [[58, 47, 18], 27.30113346888095], [[19, 39, 52], 18.05399409774121], [[13, 60, 39], -114.14941029731165], [[51, 20, 10], -51.07371987075975], [[29, 20, 14], 7.494583675572027], [[17, 6, 22], -34.97809604539778], [[31, 29, 30], -152.88010727874885], [[55, 21, 42], 35.193466755178704], [[33, 29, 2], 2.853681208301979], [[5, 6, 33], -143.3286051497837]], [[[21, 24, 24], 45.81463156018023], [[21, 20, 9], -11.003009760199173], [[3, 1, 0], -11.847057175685327], [[46, 20, 1], 71.82876004044209], [[8, 9, 9], -9.65462301282243], [[58, 47, 18], 27.30113346888095], [[19, 39, 52], 18.05399409774121], [[13, 60, 39], -114.14941029731165], [[51, 20, 10], -51.07371987075975], [[29, 20, 14], 7.494583675572027], [[17, 6, 22], -34.97809604539778], [[31, 29, 30], -152.88010727874885], [[55, 21, 42], 35.193466755178704], [[33, 29, 2], 2.853681208301979], [[5, 6, 33], -143.3286051497837]], [[[21, 24, 24], 45.81463156018023], [[21, 20, 9], -11.003009760199173], [[3, 1, 0], -11.847057175685327], [[46, 20, 1], 71.82876004044209], [[8, 9, 9], -9.65462301282243], [[58, 47, 18], 27.30113346888095], [[19, 39, 52], 18.05399409774121], [[13, 60, 39], -114.14941029731165], [[51, 20, 10], -51.07371987075975], [[29, 20, 14], 7.494583675572027], [[17, 6, 22], -34.97809604539778], [[31, 29, 30], -152.88010727874885], [[55, 21, 42], 35.193466755178704], [[33, 29, 2], 2.853681208301979], [[5, 6, 33], -143.3286051497837]], [[[21, 24, 24], 45.81463156018023], [[21, 20, 9], -11.003009760199173], [[3, 1, 0], -11.847057175685327], [[46, 20, 1], 71.82876004044209], [[8, 9, 9], -9.65462301282243], [[58, 47, 18], 27.30113346888095], [[19, 39, 52], 18.05399409774121], [[13, 60, 39], -114.14941029731165], [[51, 20, 10], -51.07371987075975], [[29, 20, 14], 7.494583675572027], [[17, 6, 22], -34.97809604539778], [[31, 29, 30], -152.88010727874885], [[55, 21, 42], 35.193466755178704], [[33, 29, 2], 2.853681208301979], [[5, 6, 33], -143.3286051497837]]]
